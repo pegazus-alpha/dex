@@ -4,14 +4,17 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+html{
+  width:100vw;
+  height:100vh;
+}
 body {
   font-family: 'Montserrat', sans-serif;
   line-height: 1.6;
   color: #ddd;
   background: #0B0B0B;
   width:100vw;
-  height:100vh
+  height:100vh;
 }
 
 h1, h2, h3 {
